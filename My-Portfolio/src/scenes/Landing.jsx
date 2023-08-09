@@ -92,7 +92,10 @@ const Landing = ({ setSelectedPage }) => {
             visible: { opacity: 1, x: 0 },
           }}
         >
-          <a href='../../build/assets/RESUME_MIRANDA_JASON.pdf' download>
+          <a
+            href='https://jasonmiranda-portfolio.onrender.com/build/assets/RESUME_MIRANDA_JASON.pdf'
+            download
+          >
             <div
               className='bg-blue text-white py-3 px-7 font-semibold
               hover:text-black transition duration-500'
